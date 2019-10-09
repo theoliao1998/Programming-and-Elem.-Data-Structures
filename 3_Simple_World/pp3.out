@@ -1,0 +1,672 @@
+Initial state
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+ho_e ____ ____ fl_w 
+____ ____ ____ ____ 
+Round 1
+Creature (hop east 2 0) takes action:
+Instruction 1: hop
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ho_e ____ fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ho_e ____ fl_w 
+____ ____ ____ ____ 
+Round 2
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ho_e ____ fl_w 
+____ ____ ____ ____ 
+Round 3
+Creature (hop east 2 1) takes action:
+Instruction 2: go 1
+Instruction 1: hop
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ ho_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 4
+Creature (flytrap east 2 2) takes action:
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 5
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 6
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 7
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 8
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 9
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 10
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 11
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 12
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 13
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 14
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 15
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 16
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 17
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 18
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 19
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 20
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 21
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 22
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 23
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 24
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 25
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 26
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 27
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 28
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 29
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 30
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 31
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 32
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 33
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 34
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 35
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 36
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 37
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 38
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 39
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Round 40
+Creature (flytrap east 2 2) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
+Creature (flytrap west 2 3) takes action:
+Instruction 5: go 1
+Instruction 1: go 4
+Instruction 4: infect
+____ ____ ____ ____ 
+____ ____ ____ ____ 
+____ ____ fl_e fl_w 
+____ ____ ____ ____ 
