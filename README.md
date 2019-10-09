@@ -1,2 +1,2 @@
 # Programming-and-Elem.-Data-Structures
-Summer 2018 in UM - SJTU JI
+VE280 Summer 2018 in UM - SJTU JI
